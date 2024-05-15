@@ -1,0 +1,4 @@
+0000:7F	eti1:LD A,A
+0001:38 FD	JR C,eti1
+Tabla de simbolos
+eti1 0
